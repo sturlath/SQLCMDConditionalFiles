@@ -15,6 +15,8 @@ Print 'This print statement should not be in the publishing script if Customer v
 print 'Customer2 stuff from Customer2.sql'
 ```
 
+I have tried 3 variations and no one worked. Taka a look at [Script.PostDeployment1.sql](https://github.com/sturlath/SQLCMDConditionalFiles/blob/master/SQLCMDConditionalFiles/Script.PostDeployment1.sql) and see what I have tried.
+
  I **ONLY** want to get *selected content into the created publishing script*, **nothing else**!
  
  I will probably have to to this in future build scripts (or manually until that gets setup). But until then I´m hoping somebody can just tell me if this is possible or not in the deployment scripts.
