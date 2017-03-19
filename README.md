@@ -5,9 +5,10 @@ This is a test project to help answer two of my StackOverflow questions.
 * [How not to include sql file content when publishing?](http://stackoverflow.com/questions/42846424/how-not-to-include-sql-file-content-when-publishing)
 * [Using variable in sql postdeployment build script?](http://stackoverflow.com/questions/26178189/using-variable-in-sql-postdeployment-build-script) (*I got this one answered way back but now I have different needs (see the first one) that I need answered*)
 
+**Steps to create**
  1. Just get the code
  2. Double click **Customer1.publish.xml** 
- 3. Click "**Load Variables**" that vill load Customer1 (see images in [Stack-question](http://stackoverflow.com/questions/42846424/how-not-to-include-sql-file-content-when-publishing))
+ 3. Click "**Load Variables**" that vill load Customer1 (see images in [How not to include sql file content when publishing?](http://stackoverflow.com/questions/42846424/how-not-to-include-sql-file-content-when-publishing))
  4. Click "**Generate Script**"
  5. If you find "Customer2 stuff from Customer2.sql" in the generated file **you have not fixed** my problem.
  ```
