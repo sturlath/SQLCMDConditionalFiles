@@ -1,4 +1,4 @@
-# SQLCMD Conditional Files in Visual Studio database project
+# Conditionally get file content into publishing script in VS database project
 
 This is a test project to help answer two of my StackOverflow questions.
 
