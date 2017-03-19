@@ -1,0 +1,1 @@
+﻿print 'Customer2 stuff from Customer2.sql'
