@@ -22,5 +22,6 @@ I have tried 3 variations and no one worked. Taka a look at [Script.PostDeployme
 
 
 **Is it even possible?**
+
  I will probably have to to this in future build scripts (or manually until that gets setup). But until then I´m hoping somebody can just tell me if this is possible or not in the deployment scripts.
  
