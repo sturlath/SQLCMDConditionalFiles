@@ -7,7 +7,7 @@ This is a test project to help answer two of my StackOverflow questions.
 
  1. Just get the code
  2. Double click **Customer1.publish.xml** 
- 3. Click "**Load Variables**" that vill load Customer1
+ 3. Click "**Load Variables**" that vill load Customer1 (see images in [Stack-question](http://stackoverflow.com/questions/42846424/how-not-to-include-sql-file-content-when-publishing))
  4. Click "**Generate Script**"
  5. If you find "Customer2 stuff from Customer2.sql" in the generated file **you have not fixed** my problem.
  ```
