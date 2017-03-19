@@ -18,7 +18,7 @@ Post-Deployment Script Template
 /*************************************************************************************************/
 /* START ATTEMPT 1 (doesn´t work)                                                                */
 /*************************************************************************************************/
-IF'($(Customer)' <> 'customer1')
+IF('$(Customer)' <> 'customer1')
 SET NOEXEC ON
 Print 'This print statement should not be in the publishing script if Customer variable is not customer1'
 :r ..\SQLCMDCONDITIONALFILES\Customer1Stuff\Customer1.sql

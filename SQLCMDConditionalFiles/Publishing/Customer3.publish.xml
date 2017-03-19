@@ -9,8 +9,7 @@
   </PropertyGroup>
   <ItemGroup>
     <SqlCmdVariable Include="Customer">
-      <Value>
-      </Value>
+      <Value>Customer1</Value>
     </SqlCmdVariable>
   </ItemGroup>
 </Project>
