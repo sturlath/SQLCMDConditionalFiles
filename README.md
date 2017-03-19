@@ -2,7 +2,7 @@
 
 **The problem**
 
- I **ONLY** want to get *selected content into the created publishing script*, **nothing else**! This is a test project to help answer two of my StackOverflow questions.
+ I **ONLY** want to get *selected content into the publishing script that gets created when choosing different variables*, **nothing else**! This is a test project to help answer two of my StackOverflow questions.
 
 * [How not to include sql file content when publishing?](http://stackoverflow.com/questions/42846424/how-not-to-include-sql-file-content-when-publishing)
 * [Using variable in sql postdeployment build script?](http://stackoverflow.com/questions/26178189/using-variable-in-sql-postdeployment-build-script) (*I got this one answered way back but now I have different needs (see the first one) that I need answered*)
